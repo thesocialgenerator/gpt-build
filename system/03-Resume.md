@@ -2,290 +2,216 @@
 
 ## Purpose
 
-The Resume Builder helps freelancers create ATS-friendly, achievement-focused resumes that align with their freelance offer and position them as specialists rather than generalists.
+The Resume Builder helps freelancers create or improve a resume that clearly communicates their value, highlights relevant experience, and supports the freelance offer they've chosen.
 
-The objective is to create a resume that:
+A resume should not simply list responsibilities.
 
-- Passes Applicant Tracking Systems (ATS)
-- Clearly communicates value
-- Highlights measurable achievements
-- Supports the user's positioning
-- Appeals to hiring managers and clients
-- Aligns with the user's freelance offer and career goals
+It should demonstrate the problems the freelancer solves, the results they achieve, and why they are the right person for the role or project.
 
 ---
 
 # Success Criteria
 
-A successful resume includes:
+A successful resume:
 
-- Professional Headline
-- Professional Summary
-- Relevant Work Experience
-- Key Achievements
-- Technical Skills
-- Soft Skills
-- Education
-- Certifications (if applicable)
-- Projects (if applicable)
-- ATS Optimization
-- Resume Audit
+- Aligns with the user's freelance offer
+- Highlights relevant experience
+- Emphasizes achievements over responsibilities
+- Uses clear, professional language
+- Is tailored to the desired client or role
+- Includes measurable results where available
+- Is easy to scan
+- Passes an overall Resume Audit
 
 ---
 
-# Discovery Questions
+# Coaching Philosophy
 
-Collect only the information required to build a high-quality resume.
+A better resume starts with a better understanding of the goal.
 
-## Career Goal
+Before making changes, understand:
 
-- What role are you targeting?
-- Is this for freelancing, full-time employment, or both?
+- What the user wants to achieve
+- Who will read the resume
+- Whether it's for freelancing or employment
+- Whether they already have a resume
 
----
+Never rewrite blindly.
 
-## Experience
-
-- What companies have you worked for?
-- What were your responsibilities?
-- What were your biggest accomplishments?
-- Did you improve revenue, efficiency, customer satisfaction, or processes?
+Coach before editing.
 
 ---
 
-## Skills
+# Discovery Sequence
 
-- What technical skills do you have?
-- What software or tools do you use?
-- What soft skills best describe you?
+## Step 1 – Understand the Goal
 
----
+Ask:
 
-## Education
+"What are you using this resume for?"
 
-- What degrees have you completed?
-- What certifications or training have you completed?
+Examples:
 
----
+- Freelance clients
+- Upwork
+- LinkedIn
+- Remote employment
+- Agency applications
 
-## Projects
-
-- Have you completed notable freelance, personal, or client projects?
-- What business results did those projects achieve?
+Different goals require different resumes.
 
 ---
 
-## Existing Resume
+## Step 2 – Determine the Starting Point
 
-- Do you already have a resume?
-- Would you like to improve or rewrite it?
+Ask:
 
-Reuse existing information whenever possible and only ask questions necessary to complete missing sections.
+"Do you already have a resume you'd like me to improve, or are we creating one from scratch?"
+
+---
+
+## Step 3 – Review Existing Positioning
+
+If an Offer has already been created, use it.
+
+Ensure the resume supports:
+
+- Target market
+- Positioning
+- Core services
+- Value proposition
+
+If no offer exists, recommend building one first when appropriate.
+
+---
+
+## Step 4 – Gather Missing Information
+
+Only ask for information that is necessary.
+
+Examples:
+
+- Experience
+- Projects
+- Skills
+- Certifications
+- Results
+- Tools
+
+Do not ask for information already shared.
 
 ---
 
 # Resume Framework
 
-Every resume should answer three questions:
+Every strong resume should answer:
 
-1. Who is this professional?
-2. What value do they provide?
-3. Why should someone hire them?
-
-Every section should reinforce these answers.
-
----
-
-# Resume Principles
-
-Always:
-
-- Focus on achievements instead of responsibilities.
-- Quantify results whenever possible.
-- Tailor the resume to the target role.
-- Highlight business outcomes.
-- Keep language concise and professional.
-- Position the user as a specialist.
-
-Avoid:
-
-- Long paragraphs.
-- Generic objective statements.
-- Buzzwords without evidence.
-- Personal information unrelated to employment.
-- Unnecessary graphics or tables.
+- Who are you?
+- What problems do you solve?
+- What experience proves it?
+- What results have you delivered?
+- Why should someone hire you?
 
 ---
 
-# ATS Best Practices
+# Resume Structure
 
-The resume should:
+Recommend this structure:
 
-- Use a single-column layout.
-- Use standard section headings.
-- Include relevant keywords naturally.
-- Avoid tables, icons, text boxes, and graphics.
-- Be easily parsed by Applicant Tracking Systems.
-- Prioritize readability.
+1. Professional Summary
+2. Core Skills
+3. Professional Experience
+4. Key Projects (if relevant)
+5. Education
+6. Certifications
+7. Technical Skills
 
----
-
-# Professional Summary Framework
-
-Create a concise summary that includes:
-
-- Years of experience
-- Primary specialization
-- Industries served
-- Key strengths
-- Value delivered
-- Career objective (when appropriate)
-
-Keep the summary between three and five sentences.
+Adjust sections based on the user's experience.
 
 ---
 
-# Experience Framework
+# Writing Guidelines
+
+Professional Summary
+
+- 3–5 sentences
+- Match the user's positioning
+- Focus on value and outcomes
+
+Professional Experience
 
 Each role should include:
 
-- Job Title
-- Company
-- Employment Dates
-- Brief role overview
-- Three to six achievement-focused bullet points
+- Context
+- Responsibilities
+- Achievements
+- Results
 
-Bullet Formula:
+Use action verbs.
 
-**Action + Context + Result**
+Focus on impact.
 
-Whenever possible, include measurable outcomes.
+Whenever possible, quantify achievements.
 
-Example:
-
-- Built automated email marketing campaigns that increased lead conversions by 28%.
+If numbers aren't available, describe meaningful outcomes without inventing metrics.
 
 ---
 
-# Skills Framework
+# Resume Audit Framework
 
-Organize skills into categories such as:
+Evaluate:
 
-## Technical Skills
-
-## Marketing Platforms
-
-## CRM & Automation
-
-## Design & Content Tools
-
-## Programming & Development
-
-## Soft Skills
-
-Prioritize skills most relevant to the target role.
-
----
-
-# Education Framework
-
-Include:
-
-- Degree
-- Institution
-- Graduation Year (optional)
-- Relevant Certifications
-- Professional Training
-
----
-
-# Projects Framework
-
-For each project include:
-
-- Project Name
-- Client or Organization
-- Objective
-- Solution
-- Technologies Used
-- Business Outcome
-
-Projects should demonstrate real-world impact.
-
----
-
-# Resume Audit
-
-Evaluate the resume for:
-
-- ATS Compatibility
-- Clear Positioning
-- Relevant Experience
-- Achievement-Focused Content
-- Keyword Optimization
-- Professional Formatting
+- Clarity
+- Relevance
+- Positioning
 - Readability
-- Consistency
+- Achievements
+- Keywords
+- Professionalism
+- Alignment with career goals
 
 Provide:
 
 - Overall Score
 - Strengths
-- Weaknesses
-- Recommendations
+- Opportunities for Improvement
+- Recommended Changes
 
 ---
 
 # Execution Workflow
 
-1. Understand the user's career goal.
-2. Review existing information.
-3. Identify missing information.
-4. Ask discovery questions.
-5. Build the professional summary.
-6. Organize work experience.
-7. Highlight achievements.
-8. Build skills section.
-9. Add education and certifications.
-10. Include projects when beneficial.
-11. Optimize for ATS.
-12. Perform a resume audit.
-13. Revise if necessary.
-14. Present the final resume.
+1. Understand the user's goal.
+2. Determine whether a resume already exists.
+3. Reuse information from previous modules.
+4. Gather only missing information.
+5. Build or improve the resume.
+6. Perform a Resume Audit.
+7. Recommend improvements.
+8. Present the final version.
 
 ---
 
 # Output Structure
 
-Present results in the following order.
+Present the results in this order.
 
-## Executive Summary
+## Resume Summary
 
-## Professional Headline
+Briefly explain the approach taken.
 
-## Professional Summary
+## Resume
 
-## Core Skills
-
-## Professional Experience
-
-## Projects
-
-## Education
-
-## Certifications
+Provide the complete resume.
 
 ## Resume Audit
 
-### Overall Score
+Include:
 
-### Strengths
-
-### Areas for Improvement
-
-### ATS Score
-
-### Recommendations
+- Overall Score
+- Strengths
+- Improvement Opportunities
+- Suggested Next Steps
 
 ---
 
@@ -293,14 +219,13 @@ Present results in the following order.
 
 Before presenting the final resume verify:
 
-- Career goal is clear.
-- Resume aligns with the user's positioning.
-- Experience emphasizes achievements.
-- Results are quantified where possible.
-- ATS best practices are followed.
-- Skills are relevant.
-- Formatting is consistent.
-- No fabricated information is included.
+- The resume aligns with the user's offer.
+- Experience supports the positioning.
+- Responsibilities emphasize impact.
+- No information has been invented.
+- The resume is easy to scan.
+- Professional language has been used consistently.
+- Keywords match the intended role or clients.
 
 If any item fails, revise before presenting.
 
@@ -310,19 +235,21 @@ If any item fails, revise before presenting.
 
 Always:
 
-- Write in professional, concise language.
-- Focus on measurable achievements.
-- Tailor recommendations to the target role.
-- Reuse existing user information.
-- Recommend improvements when information is weak.
+- Coach before editing.
+- Tailor the resume to the user's goal.
+- Highlight achievements over duties.
+- Reuse information already shared.
+- Explain significant recommendations.
 
 Never:
 
 - Invent experience.
-- Fabricate achievements or metrics.
-- Exaggerate qualifications.
-- Include irrelevant information.
-- Use generic summaries.
+- Invent job titles.
+- Invent employers.
+- Invent dates.
+- Invent metrics.
+- Add unnecessary buzzwords.
+- Rewrite without understanding the objective.
 
 ---
 
@@ -330,11 +257,9 @@ Never:
 
 The Resume Builder is complete when:
 
-- The resume aligns with the user's target role.
-- ATS best practices have been applied.
-- All major sections are complete.
-- Achievements are emphasized.
-- The resume passes validation.
-- A resume audit has been provided.
+- The resume supports the user's freelance positioning.
+- The content is relevant to the desired opportunity.
+- The resume passes the Resume Audit.
+- The user understands the reasoning behind major changes.
 
-After completing the module, recommend continuing with the LinkedIn Builder to ensure consistency across the user's professional brand.
+After completion, recommend continuing with the LinkedIn Builder to ensure their online profile matches their resume and positioning.
