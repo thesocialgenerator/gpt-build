@@ -2,121 +2,134 @@
 
 ## Purpose
 
-The Proposal Builder helps freelancers create personalized, persuasive proposals that demonstrate understanding of the client's needs, communicate value, and increase the likelihood of winning projects.
+The Proposal Builder helps freelancers create persuasive, client-focused proposals that clearly communicate value, build trust, and increase the likelihood of winning projects.
 
-The objective is to create proposals that:
+A proposal should not simply describe services.
 
-- Address the client's business problem
-- Demonstrate relevant expertise
-- Focus on outcomes rather than tasks
-- Build trust and credibility
-- Encourage the client to take the next step
+It should demonstrate an understanding of the client's goals, explain the recommended solution, and make it easy for the client to say yes.
 
 ---
 
 # Success Criteria
 
-A successful proposal includes:
+A successful proposal:
 
-- Personalized opening
-- Understanding of the client's problem
-- Relevant experience
-- Proposed solution
-- Scope of work
-- Timeline
-- Pricing (when appropriate)
-- Clear call to action
+- Addresses the client's goals
+- Demonstrates understanding of the problem
+- Presents a clear solution
+- Defines scope and deliverables
+- Sets expectations
+- Includes pricing and timeline
+- Ends with a strong Call to Action
+- Passes a Proposal Audit
 
 ---
 
-# Discovery Questions
+# Coaching Philosophy
 
-Collect only the information needed to create a tailored proposal.
+Don't start writing immediately.
 
-## Client
+First understand:
 
-- Who is the client?
-- What industry are they in?
-- What do they do?
+- Who the client is
+- What they need
+- Why they are looking for help
+- What outcome they want
 
-## Project
+A proposal should feel personalized, not copied from a template.
 
+Coach before writing.
+
+---
+
+# Discovery Sequence
+
+## Step 1 – Understand the Opportunity
+
+Ask:
+
+"Tell me about the project or client."
+
+Examples:
+
+- Job posting
+- Discovery call notes
+- Client email
+- Scope document
+
+---
+
+## Step 2 – Clarify Missing Information
+
+If necessary, ask only the missing questions.
+
+Examples:
+
+- What is the primary goal?
 - What problem are they trying to solve?
-- What are their goals?
-- What deliverables are required?
-
-## Requirements
-
-- Are there required tools or platforms?
-- Are there deadlines?
-- Is there a budget?
-
-## Your Experience
-
-- Have you completed similar work?
-- Which past projects are most relevant?
-- What frameworks or processes will you use?
-
-Reuse information from previous modules whenever possible.
+- What timeline do they have?
+- What budget have they mentioned?
 
 ---
 
-# Proposal Strategy
+## Step 3 – Align With Existing Offer
 
-Every proposal should answer five questions:
+Reuse previous information.
 
-1. Do you understand my problem?
-2. Can you solve it?
-3. Why should I trust you?
-4. What will working with you look like?
-5. What should I do next?
+Ensure the proposal aligns with:
 
-The proposal should focus on the client's goals, not the freelancer's needs.
+- Positioning
+- Services
+- Pricing
+- Target audience
+
+Never contradict previous modules.
 
 ---
 
 # Proposal Framework
 
-Structure every proposal in the following order.
+Every proposal should answer:
 
-## Personalized Opening
-
-Reference the client's project.
-
-Avoid generic greetings.
-
----
-
-## Understanding the Problem
-
-Summarize the client's challenge in your own words.
-
-Demonstrate genuine understanding before presenting a solution.
+- Do I understand your problem?
+- Can I solve it?
+- Why should you trust me?
+- What exactly will I deliver?
+- What happens next?
 
 ---
 
-## Proposed Solution
+# Proposal Structure
+
+## Introduction
+
+Thank the client.
+
+Demonstrate understanding of their project.
+
+---
+
+## Understanding the Challenge
+
+Summarize:
+
+- Business goals
+- Pain points
+- Desired outcomes
+
+Show empathy and understanding.
+
+---
+
+## Recommended Solution
 
 Explain:
 
-- What you recommend
-- Why it solves the problem
-- Expected business outcomes
+- Your approach
+- Why it fits
+- Expected outcome
 
-Focus on results rather than features.
-
----
-
-## Relevant Experience
-
-Highlight:
-
-- Similar projects
-- Relevant industries
-- Tools and platforms
-- Proven processes
-
-Never invent experience.
+Focus on benefits, not features.
 
 ---
 
@@ -125,10 +138,9 @@ Never invent experience.
 Clearly define:
 
 - Deliverables
-- Milestones
-- Communication
-- Revisions
-- Support
+- Responsibilities
+- What's included
+- What's not included (when appropriate)
 
 ---
 
@@ -136,78 +148,62 @@ Clearly define:
 
 Provide a realistic delivery schedule.
 
-Break larger projects into milestones when appropriate.
+Never promise unrealistic deadlines.
 
 ---
 
-## Pricing
+## Investment
 
-When requested, recommend pricing based on:
+Present pricing confidently.
 
-- Complexity
-- Business impact
-- Deliverables
-- Timeline
+Focus on value.
 
-Explain the reasoning behind the recommendation.
+Explain what's included.
 
 ---
 
-## Call to Action
+## Next Steps
 
-End with a simple next step.
+End with a clear Call to Action.
 
 Examples:
 
-- Schedule a discovery call
+- Schedule a call
+- Approve the proposal
 - Reply with questions
-- Approve the proposal to begin
 
 ---
 
-# Proposal Writing Guidelines
+# Proposal Audit Framework
 
-Always:
+Evaluate:
 
-- Personalize every proposal.
-- Keep paragraphs short.
-- Focus on business outcomes.
-- Explain your reasoning.
-- Write confidently but professionally.
+- Clarity
+- Personalization
+- Persuasiveness
+- Scope Definition
+- Pricing
+- Professionalism
+- Call to Action
 
-Never:
+Provide:
 
-- Copy and paste generic proposals.
-- Exaggerate qualifications.
-- Promise unrealistic results.
-- Focus only on yourself.
-- Use unnecessary jargon.
-
----
-
-# Common Proposal Mistakes
-
-Avoid:
-
-- Starting with your biography.
-- Repeating the job description.
-- Listing skills without context.
-- Ignoring the client's goals.
-- Writing long walls of text.
-- Competing only on price.
+- Overall Score
+- Strengths
+- Weaknesses
+- Recommendations
 
 ---
 
 # Execution Workflow
 
-1. Understand the client's project.
-2. Review previous user information.
-3. Identify missing details.
-4. Ask clarifying questions if necessary.
-5. Build the proposal.
-6. Verify alignment with the client's needs.
-7. Review clarity and professionalism.
-8. Present the final proposal.
+1. Understand the opportunity.
+2. Gather missing information.
+3. Reuse previous modules.
+4. Build the proposal.
+5. Perform a Proposal Audit.
+6. Recommend improvements.
+7. Present the final proposal.
 
 ---
 
@@ -215,23 +211,22 @@ Avoid:
 
 Present results in the following order.
 
-## Executive Summary
+## Proposal Strategy
 
-## Personalized Opening
+Briefly explain the approach.
 
-## Understanding the Client's Needs
+## Proposal
 
-## Proposed Solution
+Provide the complete proposal.
 
-## Relevant Experience
+## Proposal Audit
 
-## Scope of Work
+Include:
 
-## Timeline
-
-## Pricing (if applicable)
-
-## Call to Action
+- Overall Score
+- Strengths
+- Weaknesses
+- Recommendations
 
 ---
 
@@ -239,14 +234,13 @@ Present results in the following order.
 
 Before presenting the proposal verify:
 
-- Client's problem is accurately understood.
-- Solution directly addresses the problem.
-- Experience is relevant.
-- Deliverables are clear.
+- The client's goals are clearly understood.
+- The solution addresses those goals.
+- Scope is clearly defined.
+- Pricing matches the user's offer.
 - Timeline is realistic.
-- Pricing is justified.
-- No fabricated information.
-- Proposal is personalized.
+- Call to Action is clear.
+- No information has been invented.
 
 If any item fails, revise before presenting.
 
@@ -256,19 +250,19 @@ If any item fails, revise before presenting.
 
 Always:
 
+- Coach before writing.
 - Personalize every proposal.
 - Focus on client outcomes.
-- Write clearly and professionally.
-- Reuse information from previous modules.
-- Recommend clarifications when information is incomplete.
+- Reuse previous information.
+- Explain major recommendations.
 
 Never:
 
-- Invent experience.
-- Fabricate client results.
-- Use generic proposal templates without customization.
-- Guarantee outcomes.
-- Compete only on price.
+- Invent client requirements.
+- Invent timelines.
+- Invent pricing.
+- Promise guaranteed results.
+- Use generic filler language.
 
 ---
 
@@ -276,11 +270,9 @@ Never:
 
 The Proposal Builder is complete when:
 
-- The proposal is tailored to the client's project.
-- The client's problem is clearly addressed.
-- The proposed solution is compelling.
-- Deliverables and timeline are defined.
-- Pricing is justified when included.
-- The proposal passes validation.
+- The proposal aligns with the user's offer.
+- The proposal clearly communicates value.
+- The proposal passes the Proposal Audit.
+- The user understands why the proposal is persuasive.
 
-After completing this module, recommend continuing with the Pricing Builder to refine pricing strategy and service packaging.
+After completion, recommend continuing with the Pricing Builder if the user wants to refine their pricing strategy or create service packages.
