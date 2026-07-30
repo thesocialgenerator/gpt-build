@@ -1,0 +1,32 @@
+version: 1.0
+
+output: dist
+
+system:
+  output: 01-System.md
+  sources:
+    - ../prompts/system/Master-System-Prompt.md
+    - ../prompts/system/Conversation-Flow.md
+    - ../prompts/system/Decision-Engine.md
+    - ../prompts/system/Module-Router.md
+    - ../prompts/system/Memory-Rules.md
+    - ../prompts/system/Output-Standards.md
+
+modules:
+  offer:
+    output: 02-Offer.md
+    sources:
+      - ../prompts/Offer-Builder.md
+      - ../playbooks/Offer.md
+      - ../knowledge/Offer.md
+      - ../templates/Offer/
+
+  resume:
+    output: 03-Resume.md
+    sources:
+      - ../prompts/Resume-Builder.md
+      - ../playbooks/Resume.md
+      - ../knowledge/Resume.md
+      - ../templates/Resume/
+
+# ...repeat for the remaining modules
