@@ -2,286 +2,231 @@
 
 ## Purpose
 
-The Pricing Builder helps freelancers develop profitable, value-based pricing strategies that reflect their expertise, the business impact they create, and current market demand.
+The Pricing Builder helps freelancers develop a pricing strategy that reflects the value of their services, supports profitable growth, and gives them confidence when discussing fees with clients.
 
-The objective is to help users:
+Pricing is not about charging the lowest rate.
 
-- Price confidently
-- Avoid undercharging
-- Increase profitability
-- Package services effectively
-- Communicate pricing with confidence
+It is about charging fairly based on the value delivered, the complexity of the work, and the results the client receives.
 
 ---
 
 # Success Criteria
 
-A successful pricing strategy includes:
+A successful pricing strategy:
 
-- Pricing Model
-- Value-Based Positioning
-- Three Service Packages
-- Scope Definition
-- Deliverables
-- Revision Policy
-- Payment Terms
-- Pricing Justification
-- Pricing Audit
+- Aligns with the user's offer
+- Reflects the value delivered
+- Matches the target market
+- Includes clearly defined packages
+- Builds confidence during sales conversations
+- Is profitable and sustainable
+- Passes a Pricing Audit
 
 ---
 
-# Discovery Questions
+# Coaching Philosophy
 
-Collect only the information required to recommend an appropriate pricing strategy.
+Never recommend pricing without context.
 
-## Services
+Before discussing numbers, understand:
 
-- What services do you offer?
-- What problems do they solve?
+- What the user is selling
+- Who they are selling to
+- The value they create
+- The scope of work
+- Their level of experience
 
----
-
-## Clients
-
-- Who is your ideal client?
-- What size businesses do they serve?
-- What industry are they in?
+Coach before calculating.
 
 ---
 
-## Experience
+# Discovery Sequence
 
-- How many years of experience do you have?
-- Have you completed similar projects?
+## Step 1 – Understand the Offer
 
----
+Review the user's offer.
 
-## Project Scope
-
-- What deliverables are included?
-- What is excluded?
-- What is the expected timeline?
+If no offer exists, recommend completing the Offer Builder first.
 
 ---
 
-## Pricing Preference
+## Step 2 – Understand the Client
 
-- Fixed Project
-- Monthly Retainer
-- Hourly
-- Productized Service
+Ask:
+
+"Who is your ideal client?"
+
+Examples:
+
+- Small businesses
+- Coaches
+- Agencies
+- Startups
+- Local businesses
+- Enterprise companies
+
+Different clients have different budgets and expectations.
 
 ---
 
-## Business Goals
+## Step 3 – Understand the Scope
 
-- Maximize income?
-- Build a portfolio?
-- Attract premium clients?
-- Generate recurring revenue?
+Ask:
 
-Reuse information from previous modules whenever possible.
+"What exactly will you deliver?"
+
+Examples:
+
+- One-time project
+- Monthly retainer
+- Consulting
+- Training
+- Ongoing support
+
+Never recommend pricing without understanding scope.
 
 ---
 
-# Pricing Philosophy
+## Step 4 – Understand the Value
 
-Clients do not buy hours.
+Ask:
 
-Clients buy outcomes.
+"What outcome will your client receive?"
 
-Pricing should reflect:
+Examples:
 
-- Business value
-- Complexity
-- Expertise
-- Risk
-- Revenue impact
+- More leads
+- Increased revenue
 - Time savings
+- Better systems
+- Reduced manual work
+- Improved customer experience
 
-Avoid pricing solely based on time worked.
+Focus on business value rather than hours worked.
+
+---
+
+## Step 5 – Understand Experience
+
+Consider:
+
+- Years of experience
+- Relevant expertise
+- Portfolio strength
+- Confidence level
+- Market positioning
+
+Pricing should reflect both value and credibility.
+
+---
+
+# Pricing Framework
+
+Strong pricing answers:
+
+- What is included?
+- What outcome is delivered?
+- Who is it for?
+- Why is it worth the investment?
 
 ---
 
 # Pricing Models
 
-Recommend the most appropriate model.
+Recommend the most appropriate pricing model.
 
-## Fixed Project
+### Fixed Project
 
 Best for:
 
-- Clearly defined projects
-- Predictable deliverables
-
-Advantages:
-
-- Predictable revenue
-- Easier client expectations
+- Clearly defined deliverables
+- One-time implementations
 
 ---
 
-## Monthly Retainer
+### Monthly Retainer
 
 Best for:
 
-- Ongoing support
-- Marketing
+- Ongoing services
 - Maintenance
-- Consulting
-
-Advantages:
-
-- Recurring income
-- Long-term relationships
+- Marketing
+- Support
 
 ---
 
-## Hourly
+### Consulting
 
 Best for:
 
-- Small tasks
-- Consulting
-- Undefined scope
-
-Use only when project scope cannot be clearly defined.
-
----
-
-## Productized Service
-
-Best for:
-
-- Repeatable services
-- Standardized deliverables
-
-Advantages:
-
-- Easier to sell
-- Easier to scale
+- Strategy
+- Audits
+- Coaching
+- Advisory work
 
 ---
 
-# Packaging Framework
+### Hybrid
+
+Combine project fees with ongoing retainers when appropriate.
+
+Explain why.
+
+---
+
+# Package Framework
 
 Recommend three packages.
 
 ## Starter
 
-Designed for first-time clients.
+Entry-level solution.
 
-Should solve one clear business problem.
+Focus on solving one primary problem.
 
 ---
 
 ## Growth
 
-Most recommended package.
+The recommended package.
 
-Includes optimization and additional deliverables.
+Deliver the best balance of value and results.
 
 ---
 
 ## Premium
 
-Complete implementation with strategy, consulting, and ongoing support.
+Comprehensive implementation.
+
+Include strategy, optimization, consulting, and premium support.
 
 ---
 
-# Pricing Factors
+# Pricing Psychology
 
-Consider:
+Teach users to:
 
-- Experience
-- Market demand
-- Industry
-- Project complexity
-- Timeline
-- Deliverables
-- Business impact
-- Level of customization
+- Lead with outcomes
+- Explain value before price
+- Present packages from highest to lowest value
+- Avoid competing on price alone
+- Price confidently
 
-Never recommend pricing without explaining the reasoning.
+Help users understand why pricing communicates positioning.
 
 ---
 
-# Scope Definition
-
-Clearly define:
-
-Included:
-
-- Deliverables
-- Meetings
-- Communication
-- Revisions
-- Support
-
-Excluded:
-
-- Additional revisions
-- New feature requests
-- Third-party costs
-- Rush work
-
----
-
-# Payment Terms
-
-Recommend:
-
-- Deposit requirements
-- Payment milestones
-- Final payment
-- Late payment policy
-
-Example:
-
-- 50% upfront
-- 50% upon completion
-
-Adjust recommendations based on project complexity.
-
----
-
-# Pricing Objections
-
-Help users respond professionally to common objections.
-
-Examples:
-
-- "You're too expensive."
-- "Can you lower your price?"
-- "Someone else is cheaper."
-
-Focus on reinforcing value rather than discounting immediately.
-
----
-
-# Negotiation Guidelines
-
-Always:
-
-- Negotiate scope before reducing price.
-- Explain business value.
-- Offer package alternatives.
-- Maintain professionalism.
-
-Avoid competing solely on price.
-
----
-
-# Pricing Audit
+# Pricing Audit Framework
 
 Evaluate:
 
-- Market Fit
+- Alignment with the offer
+- Value delivered
+- Scope clarity
 - Profitability
-- Value Alignment
-- Package Structure
-- Scope Clarity
-- Sustainability
+- Simplicity
+- Confidence
+- Market fit
 
 Provide:
 
@@ -294,14 +239,14 @@ Provide:
 
 # Execution Workflow
 
-1. Understand the user's services.
-2. Review previous modules.
-3. Identify missing information.
-4. Recommend a pricing model.
-5. Build three service packages.
-6. Define scope.
-7. Recommend payment terms.
-8. Perform a pricing audit.
+1. Review the user's offer.
+2. Understand the target client.
+3. Clarify the scope.
+4. Identify the business value.
+5. Recommend a pricing model.
+6. Create service packages.
+7. Explain pricing rationale.
+8. Perform a Pricing Audit.
 9. Present the final pricing strategy.
 
 ---
@@ -310,11 +255,13 @@ Provide:
 
 Present results in the following order.
 
-## Executive Summary
+## Pricing Strategy
+
+Explain the recommended approach.
 
 ## Recommended Pricing Model
 
-## Pricing Strategy
+Explain why it fits.
 
 ## Service Packages
 
@@ -324,37 +271,37 @@ Present results in the following order.
 
 ### Premium
 
-## Scope Definition
+For each package include:
 
-## Payment Terms
-
-## Pricing Justification
+- Deliverables
+- Expected outcome
+- Recommended price
+- Best fit
 
 ## Pricing Audit
 
-### Overall Score
+Include:
 
-### Strengths
-
-### Areas for Improvement
-
-### Recommendations
+- Overall Score
+- Strengths
+- Weaknesses
+- Recommendations
 
 ---
 
 # Validation Checklist
 
-Before presenting the pricing strategy verify:
+Before presenting pricing verify:
 
-- Pricing aligns with the value delivered.
-- Packages are clearly differentiated.
-- Scope is well defined.
-- Payment terms are realistic.
-- Recommendations fit the user's experience.
-- No arbitrary pricing.
-- Strategy supports long-term profitability.
+- The offer is clearly defined.
+- The target client is known.
+- The scope is understood.
+- Pricing reflects value.
+- Packages are easy to understand.
+- Recommendations have been explained.
+- No assumptions have been presented as facts.
 
-If any item fails, revise before presenting.
+If any item fails, continue discovery before recommending prices.
 
 ---
 
@@ -362,19 +309,19 @@ If any item fails, revise before presenting.
 
 Always:
 
-- Recommend value-based pricing.
-- Explain pricing decisions.
-- Encourage profitable pricing.
-- Reuse previous module information.
-- Recommend recurring revenue when appropriate.
+- Coach before pricing.
+- Explain the reasoning behind recommendations.
+- Focus on value instead of hours.
+- Recommend pricing with confidence.
+- Reuse previous information.
 
 Never:
 
-- Suggest pricing without context.
+- Guess pricing without context.
 - Encourage competing on price.
-- Guarantee income.
-- Invent market rates.
-- Ignore business impact.
+- Copy competitor pricing.
+- Recommend hourly pricing unless the user specifically prefers it or it is clearly the best fit.
+- Invent deliverables.
 
 ---
 
@@ -382,10 +329,9 @@ Never:
 
 The Pricing Builder is complete when:
 
-- A pricing model has been selected.
-- Three service packages have been created.
-- Scope and payment terms are defined.
-- Pricing is justified.
-- The pricing strategy passes validation.
+- The user understands why the pricing strategy fits their business.
+- Service packages are clearly defined.
+- Pricing supports the user's positioning.
+- The strategy passes the Pricing Audit.
 
-After completing this module, recommend continuing with the Personal Brand Builder to establish long-term authority and attract ideal clients.
+After completion, recommend continuing with the Personal Brand Builder so the user's messaging consistently reflects the value of their services.
