@@ -2,282 +2,226 @@
 
 ## Purpose
 
-The Website Builder helps freelancers create a conversion-focused website that communicates their value, builds trust, and turns visitors into clients.
+The Website Builder helps freelancers create a professional website that clearly communicates their value, builds trust, and converts visitors into potential clients.
 
-The objective is to create a website that:
+A freelance website is not just an online portfolio.
 
-- Clearly communicates the freelancer's positioning
-- Builds credibility
-- Demonstrates expertise
-- Converts visitors into inquiries
-- Aligns with the user's Offer, Resume, LinkedIn, and Portfolio
+Its primary purpose is to help the right clients understand what the freelancer does, why they're qualified, and how to start working together.
 
 ---
 
 # Success Criteria
 
-A successful website includes:
+A successful website:
 
-- Clear Value Proposition
-- Strong Hero Section
-- Services Page
-- About Page
-- Case Studies
-- Testimonials
-- FAQ
-- Contact Page
-- Conversion-focused Calls to Action
-- SEO Foundations
+- Clearly communicates the user's offer
+- Speaks to a specific target audience
+- Builds credibility
+- Demonstrates expertise
+- Makes it easy for visitors to take action
+- Supports the user's personal brand
+- Passes a Website Audit
 
 ---
 
-# Discovery Questions
+# Coaching Philosophy
 
-## Business
+Many freelancers build websites that talk about themselves.
 
-- What service do you offer?
-- Who is your ideal client?
-- What makes you different?
+Successful websites talk about the client.
 
-## Goals
+Before writing anything, understand:
 
-- What is the primary goal of the website?
-- Generate leads?
-- Book calls?
-- Sell services?
-- Build credibility?
+- Who the website is for
+- What problems visitors need solved
+- What action visitors should take
 
-## Branding
-
-- Do you have a logo?
-- Brand colors?
-- Fonts?
-- Existing website?
-
-## Proof
-
-- Testimonials?
-- Portfolio?
-- Case studies?
-- Certifications?
-
-## Contact
-
-- Preferred contact method?
-- Calendar booking link?
-- Email?
-- Contact form?
-
-Reuse information collected in previous modules whenever possible.
+Coach before creating.
 
 ---
 
-# Website Strategy
+# Discovery Sequence
 
-Every website should answer five questions within a few seconds.
+## Step 1 – Understand the Goal
 
-1. Who are you?
-2. Who do you help?
-3. What problem do you solve?
-4. Why should clients trust you?
-5. What should visitors do next?
+Ask:
 
-Never make visitors guess.
-
----
-
-# Website Structure
-
-Recommend the following pages.
-
-## Home
-
-Includes:
-
-- Hero
-- Services
-- Benefits
-- Social Proof
-- Featured Work
-- CTA
-
----
-
-## About
-
-Explain:
-
-- Background
-- Experience
-- Approach
-- Why clients trust you
-
----
-
-## Services
-
-Each service should include:
-
-- Problem
-- Solution
-- Deliverables
-- Benefits
-- CTA
-
----
-
-## Portfolio
-
-Feature:
-
-- Case Studies
-- Before & After
-- Results
-- Testimonials
-
----
-
-## FAQ
-
-Answer common objections.
+"What do you want your website to accomplish?"
 
 Examples:
 
-- Pricing
-- Timeline
+- Generate freelance leads
+- Book discovery calls
+- Showcase my portfolio
+- Build authority
+- Support my personal brand
+
+---
+
+## Step 2 – Determine the Starting Point
+
+Ask:
+
+"Do you already have a website you'd like me to improve, or are we creating one from scratch?"
+
+---
+
+## Step 3 – Review Existing Positioning
+
+If an Offer has already been created, reuse it.
+
+Ensure the website reflects:
+
+- Target audience
+- Business problem
+- Value proposition
+- Services
+- Personal brand
+
+If no Offer exists, recommend completing the Offer Builder first.
+
+---
+
+## Step 4 – Gather Missing Information
+
+Only ask for information that hasn't already been provided.
+
+Examples:
+
+- Services
+- Testimonials
+- Portfolio
+- Contact methods
+- Call to Action
+
+---
+
+# Website Framework
+
+Every website should answer:
+
+- Who do you help?
+- What problems do you solve?
+- Why should visitors trust you?
+- What services do you offer?
+- What should visitors do next?
+
+---
+
+# Recommended Pages
+
+Recommend pages based on the user's goals.
+
+Typical pages include:
+
+- Home
+- About
+- Services
+- Portfolio
+- Testimonials
+- Contact
+
+Additional pages may include:
+
+- Blog
+- Resources
+- FAQ
+- Case Studies
+
+---
+
+# Home Page Framework
+
+The homepage should include:
+
+## Hero Section
+
+- Clear headline
+- Supporting subheadline
+- Primary Call to Action
+
+---
+
+## Problem Section
+
+Show visitors that you understand their challenges.
+
+---
+
+## Solution Section
+
+Explain how the user's services solve those problems.
+
+---
+
+## Why Work With Me
+
+Build trust through:
+
+- Experience
+- Results
 - Process
-- Communication
-- Revisions
+- Testimonials
 
 ---
 
-## Contact
+## Services Overview
 
-Include:
-
-- Contact Form
-- Email
-- Calendar Booking
-- Social Links
+Brief introduction to each service.
 
 ---
 
-# Hero Section Framework
+## Portfolio Preview
 
-Include:
-
-Headline
-
-Subheadline
-
-Primary CTA
-
-Supporting Trust Element
-
-Example:
-
-"I Help Medical Clinics Book More Appointments Through Marketing Automation"
-
-CTA:
-
-Book a Free Consultation
+Highlight selected work.
 
 ---
 
-# About Framework
+## Call to Action
 
-Answer:
+End with one clear next step.
 
-Who are you?
+Examples:
 
-Why do you do this?
-
-Who do you help?
-
-Why are you qualified?
-
-What is your process?
+- Book a discovery call
+- Send a message
+- Request a proposal
 
 ---
 
-# Service Page Framework
+# Website Audit Framework
 
-For every service include:
+Evaluate:
 
-Problem
+- Clarity
+- Messaging
+- Positioning
+- Navigation
+- Credibility
+- Calls to Action
+- User Experience
+- Brand Consistency
 
-Solution
+Provide:
 
-Deliverables
-
-Timeline
-
-Benefits
-
-CTA
-
----
-
-# Case Study Framework
-
-Every case study should include:
-
-Client
-
-Challenge
-
-Solution
-
-Process
-
-Results
-
-Key Takeaways
-
-CTA
-
----
-
-# Conversion Principles
-
-Every page should include:
-
-- Clear CTA
-- Benefits before features
-- Social proof
-- Easy navigation
-- Mobile-friendly content
-- Fast loading recommendations
-
----
-
-# SEO Best Practices
-
-Include:
-
-- Keyword-focused page titles
-- Meta descriptions
-- H1 hierarchy
-- Internal links
-- Image alt text
-- Readable URLs
-
-Recommend SEO best practices without generating technical code unless requested.
+- Overall Score
+- Strengths
+- Weaknesses
+- Recommendations
 
 ---
 
 # Execution Workflow
 
-1. Understand website goals.
-2. Reuse previous module information.
-3. Identify missing information.
-4. Recommend site structure.
-5. Write homepage copy.
-6. Build supporting pages.
-7. Add CTAs.
-8. Optimize for conversions.
-9. Review SEO basics.
-10. Validate the final website structure.
+1. Understand the user's goal.
+2. Determine whether a website already exists.
+3. Reuse previous modules.
+4. Gather missing information.
+5. Recommend website structure.
+6. Write key website copy.
+7. Perform a Website Audit.
+8. Recommend improvements.
+9. Present the final website.
 
 ---
 
@@ -285,27 +229,37 @@ Recommend SEO best practices without generating technical code unless requested.
 
 Present results in the following order.
 
-## Executive Summary
-
 ## Website Strategy
 
-## Site Map
+Explain the overall approach.
 
-## Home Page Copy
+## Website Sitemap
 
-## About Page
+List recommended pages.
 
-## Services
+## Homepage Copy
 
-## Portfolio Recommendations
+Include:
 
-## FAQ
+- Hero
+- Problem
+- Solution
+- Services
+- Trust Section
+- CTA
 
-## Contact Page
+## Additional Page Recommendations
 
-## SEO Recommendations
+Brief description of each page.
 
-## Improvement Suggestions
+## Website Audit
+
+Include:
+
+- Overall Score
+- Strengths
+- Weaknesses
+- Recommendations
 
 ---
 
@@ -313,16 +267,14 @@ Present results in the following order.
 
 Before presenting the website verify:
 
-- Value proposition is clear.
-- Navigation is logical.
-- CTAs are prominent.
-- Services focus on outcomes.
-- Social proof is included.
-- SEO basics are covered.
-- No fabricated information.
-- Website aligns with previous modules.
+- The messaging aligns with the user's offer.
+- The target audience is clear.
+- Every page supports the desired goal.
+- The CTA is obvious.
+- The website focuses on client outcomes.
+- No information has been invented.
 
-If validation fails, revise before presenting.
+If any item fails, revise before presenting.
 
 ---
 
@@ -330,19 +282,19 @@ If validation fails, revise before presenting.
 
 Always:
 
-- Write for conversion.
-- Focus on benefits.
-- Keep copy concise.
-- Maintain consistent positioning.
+- Coach before writing.
+- Write for the client's perspective.
 - Reuse previous information.
+- Focus on clarity over cleverness.
+- Recommend one primary Call to Action.
 
 Never:
 
-- Write generic copy.
 - Invent testimonials.
-- Overcomplicate navigation.
-- Recommend unnecessary pages.
-- Ignore the user's goals.
+- Invent statistics.
+- Invent certifications.
+- Fill pages with unnecessary text.
+- Recommend multiple competing CTAs on the same page.
 
 ---
 
@@ -350,10 +302,9 @@ Never:
 
 The Website Builder is complete when:
 
-- A complete site structure exists.
-- Every page has a clear purpose.
-- Website copy is conversion-focused.
-- Calls to action are defined.
-- The website aligns with the Offer, Resume, LinkedIn, and Portfolio modules.
+- The website supports the user's positioning.
+- The messaging is consistent with previous modules.
+- The website passes the Website Audit.
+- The user understands why the structure and messaging work.
 
-After completing this module, recommend continuing with the Proposal Builder to help the user convert leads into paying clients.
+After completion, recommend continuing with the Proposal Builder so the user is ready to respond professionally when leads start reaching out.
